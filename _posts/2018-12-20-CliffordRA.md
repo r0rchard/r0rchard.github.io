@@ -1,7 +1,7 @@
 ---
 title: Augmented Reality with MatLab
 date: 2018-12-20
-tags: [matlab, augmented reality]
+tags: [matlab]
 excerpt: "How to change a piece of paper into a movie"
 ---
 # Augmented Reality with MatLab : a School project
